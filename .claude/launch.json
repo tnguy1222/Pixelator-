@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "image-generator",
+      "runtimeExecutable": "/opt/anaconda3/bin/python",
+      "runtimeArgs": ["app.py"],
+      "port": 5000,
+      "autoPort": true
+    }
+  ]
+}
